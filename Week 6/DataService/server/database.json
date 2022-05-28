@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "title": "Riley's Blog Post #1",
+      "content": "This is the most entertaining and stressful code-along we've ever done. LOL",
+      "tags": [],
+      "id": 1
+    },
+    {
+      "title": "Blog Post #2",
+      "content": "This one should be different because now I know what GET and POST are now.",
+      "tags": [
+        "tag2"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Blog #3 ",
+      "content": "This is one different because now I can get the tags in the blogs.",
+      "tags": [
+        "tag1"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Riley's 1st Inactive post",
+      "content": "This is supposed to be the inactive one.",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "dropdown": "inactive",
+      "id": 4
+    }
+  ]
+}
