@@ -6,3 +6,4 @@
 * [Week 4](/Week%204/notes.md)
 * [Week 5](/Week)
 * [Week 6](/Week%206/notes.md)
+* [Week 7](/Week%207/notes.md)
