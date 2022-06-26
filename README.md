@@ -8,3 +8,5 @@
 * [Week 6](/Week%206/notes.md)
 * [Week 7](/Week%207/notes.md)
 * [Week 8](/Week%208/notes.md)
+* [Week 9](/Week%209/notes.md)
+* [Week 10](/Week%2010/notes.md)
